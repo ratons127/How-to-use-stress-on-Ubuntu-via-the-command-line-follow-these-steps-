@@ -3,9 +3,12 @@ To use stress on Ubuntu via the command line, follow these steps:
 
 ###  Install stress
 ```
+sudo apt-get update && apt-get upgrade -y
+```
+```
 sudo apt install stress
 ```
-### Use tmux for multiple termnal
+### Use tmux for multiple terminals
 ```
 sudo apt install tmux
 ```
