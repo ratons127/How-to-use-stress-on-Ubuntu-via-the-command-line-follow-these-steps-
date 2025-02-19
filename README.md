@@ -1,7 +1,7 @@
 # How-to-use-stress-on-Ubuntu-via-the-command-line-follow-these-steps-
 To use stress on Ubuntu via the command line, follow these steps:
 
-### 1. Install stress
+###  Install stress
 ```
 sudo apt install stress
 ```
@@ -16,7 +16,7 @@ ctrl + B, % , arrow keys
 <br>
 <br>
 
-### 2. Basic Usage
+###  Basic Usage
 >Stress the CPU
 To stress test the CPU (using 4 worker threads, you can adjust the number of threads based on your CPU cores):
 
